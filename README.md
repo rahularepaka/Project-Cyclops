@@ -1,6 +1,8 @@
 # Project-Cyclops : Laser Tool for Killing Weeds ☘️
 This Project is an attachment to destroy weeds faster by using 500mW Laser on the FarmBot v1.3
 
+❤️ This Project is in collaboration between Farmbot Inc and the Center of Excellence of Artificial Intelligence and Robotics ❤️
+
 ## Aknowledgement 💙
 The Project Cyclops was possible due to our own hard work and the help and support of friends, family and members of the Farmbot and Center of
 Excellence of Ai and Robotics. We take this opportunity to acknowledge their help and thank them for their assistance.
@@ -126,3 +128,6 @@ Step 6 : Run the New Sequence Created to kill the weeds using laser
 - Ethan Hadimani - 3D Mount Designer
 - Sanjay Pramod - Farmbot Sequence Programmer
 - Atin Sakkeer - Programmer
+
+ 
+
