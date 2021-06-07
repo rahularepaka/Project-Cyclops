@@ -1,4 +1,4 @@
-# Project-Cyclops : Introducing Laser Tool for Killing Weeds ☘️
+# Project-Cyclops : Laser Tool for Killing Weeds ☘️
 This Project is an attachment to destroy weeds faster by using 500mW Laser on the FarmBot v1.3
 
 ## Aknowledgement 💙
