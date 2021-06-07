@@ -36,7 +36,7 @@ The Camera will detect for weeds and give those coordiantes to the farmbot and g
 
 ## Wiring of the Laser to the Farmdunio 🔌
 
-<img src="https://user-images.githubusercontent.com/10435564/121004918-4a4a2500-c7a0-11eb-8fed-2a3c91473cd0.PNG" width="700" height="600" align="center">
+<img src="https://user-images.githubusercontent.com/10435564/121004918-4a4a2500-c7a0-11eb-8fed-2a3c91473cd0.PNG" width="600" height="600" align="center">
 
 ## Programming Ardunio 💻
 
@@ -86,7 +86,7 @@ Plants at the following machine coordinates ( X Y ) with R = radius have been sa
 https://software.farm.bot/v14/The-FarmBot-Web-App/photos/weed-detection.html
 ```
 
-## How Does it Work ?
+## How Does it Work ? 🤔
 
 ```
 Step 1 : On the Farmbot WebApp and click on sequences and create a sequence called “Weed Detection”
@@ -97,7 +97,12 @@ Step 5 : Select on the “Weeds” from the WebApp and you can find list of acti
 Step 6 : Run the New Sequence Created to kill the weeds using laser
 ```
 
-## Test Runs
+## Report 📚
+
+[Report_C.pdf](https://github.com/rahularepaka/Project-Cyclops/files/6608697/Report_C.pdf)
+
+
+## Test Runs 🧪
 
 [![Laser Test 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1623064366/video_to_markdown/images/youtube--38SfoGEeuGA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/38SfoGEeuGA "Laser Test 1")
 
@@ -117,20 +122,7 @@ Step 6 : Run the New Sequence Created to kill the weeds using laser
 
 
 ## Team Members 👷‍♂️
-- Rahul Arepaka 
-- Ethan Hadimani
-- Sanjay Pramod
-- Atin Sakkeer
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Rahul Arepaka - Project Lead and Designer
+- Ethan Hadimani - 3D Mount Designer
+- Sanjay Pramod - Farmbot Sequence Programmer
+- Atin Sakkeer - Programmer
