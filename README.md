@@ -116,11 +116,11 @@ Step 6 : Run the New Sequence Created to kill the weeds using laser
 [![Laser Test 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1623064592/video_to_markdown/images/youtube--mm0UvqF8U7o-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=mm0UvqF8U7o&list=PLmqQlLNnAZeNxKtvdTFGKsISi_beS0jqv&index=9 "Laser Test 3")
 
 
-## Team Members 👷‍♂️ :
-Rahul Arepaka 
-Ethan Hadimani
-Sanjay Pramod
-Atin Sakkeer
+## Team Members 👷‍♂️
+- Rahul Arepaka 
+- Ethan Hadimani
+- Sanjay Pramod
+- Atin Sakkeer
 
 
 
