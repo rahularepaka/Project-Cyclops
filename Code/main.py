@@ -2,11 +2,8 @@ from farmbot import Farmbot, FarmbotToken
 import time
 
 
-farmbot_1 = str('s.chakrabarty_daa@gemsedu.com')
 
-farmbot_2 = str('ram.kumar@gemsdaa.net')
-
-fb = Farmbot.login(email=farmbot_1, password="daa1234",server="https://my.farm.bot")
+fb = Farmbot.login(email="", password="",server="https://my.farm.bot")
 
 #fb = Farmbot(raw_token)
 
