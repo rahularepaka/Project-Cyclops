@@ -1,19 +1,16 @@
-# Project-Cyclops : Laser Attachment for FarmBot Genesis
-This Project is an attachment to destroy weeds faster by using 500mW Laser on the FarmBot v1.3
+# Project-Cyclops: Laser Attachment for FarmBot Genesis
+Project Cyclops is an innovative laser attachment designed to enhance the weed removal capabilities of the FarmBot Genesis v1.3 by utilizing a 500mW laser.
 
-## FarmBot Genesis v1.3 🧑‍🌾
-We have tested Project Cyclops Laser Mount in the Center of Excellence Artificial Intelligence and Robotics, GEMS Dubai American Academy
+Project Cyclops was rigorously tested at the Center of Excellence for Artificial Intelligence and Robotics at GEMS Dubai American Academy.
 
 <img src="https://user-images.githubusercontent.com/10435564/121002144-14f00800-c79d-11eb-8d74-b2a611faf76d.jpg" width="800" height="500" align="center">
 
-## FarmBot : Laser Weeder Tool ⚡
-This is an all-new laser-killing weed removal for the Farmbot designed by our team. This tool is designed to destroy weeds using a Thermal Technique: Laser by detecting weeds using a Camera and weed detection
-
-The Camera will detect for weeds and give those coordiantes to the farmbot and give add/subtract the off-set of the laser mount location and turn on the laser for 500ms and spray water on the location to complete the sequence
+## Laser Weeding Process
+This cutting-edge tool leverages laser technology for effective weed removal. The system detects weeds using a camera, processes the coordinates, and applies the laser precisely to the targeted weeds. 
 
 <img src="https://user-images.githubusercontent.com/10435564/121002727-b11a0f00-c79d-11eb-937e-5f4f70b7ab0f.jpg" width="400" height="600" align="center">      <img src="https://user-images.githubusercontent.com/10435564/121003590-c3e11380-c79e-11eb-8473-a690c3c9fd8b.jpg" width="400" height="600" align="center">
 
-## Laser Details ⚡:
+## Laser Details
 |     Laser     |    Details    |
 | ------------- | ------------- |
 | Model         | FB03-500      |
@@ -22,11 +19,13 @@ The Camera will detect for weeds and give those coordiantes to the farmbot and g
 | Voltage       | 12V DC        |
 | Beam Shape    | Dot           |
 
-## Wiring of the Laser to the Farmdunio 🔌
+## Wiring to the Farmdunio
 
 <img src="https://user-images.githubusercontent.com/10435564/121004918-4a4a2500-c7a0-11eb-8fed-2a3c91473cd0.PNG" width="600" height="600" align="center">
 
-## Programming Ardunio 💻
+## Programming the Microcontroller
+
+The following Arduino code snippet sets up the relay pin to control the laser:
 
 ```
 int relaypin = 6;
@@ -40,7 +39,9 @@ void loop(){
 }
 ```
 
-## Weed Detection ☘️
+## Weed Detection
+
+The camera detects weeds, processes their coordinates, and determines which plants to remove.
 
 <img src="https://user-images.githubusercontent.com/10435564/121005425-de1bf100-c7a0-11eb-8384-cee85e87f43e.png" width="400" height="400" align="center"> <img src="https://user-images.githubusercontent.com/10435564/121005493-ef64fd80-c7a0-11eb-9ebf-03b5c79b4f6a.png" width="400" height="400" align="center">
 
